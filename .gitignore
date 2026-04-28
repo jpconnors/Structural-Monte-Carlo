@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.venv/
+.env
+results/
+*.png
+displacement_outputs.txt
+output2.txt
+safetyfile.txt
+excitations.txt
+kparameters.txt
+mparameters.txt
+cparameters.txt
+fparameters.txt
